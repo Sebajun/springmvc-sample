@@ -31,6 +31,8 @@ Intellij or Eclipse.
 
 Simply import the project in one of the above IDE, and launch the spring boot app.
 
+To access the app visit : http://localhost:8080 and start playing. (Make sure no other app are running).
+
 There is no database needed, as the project is using an embedded one. To modify the database before starting the app, just modify the `data.sql` script.
 
 ## Built With
