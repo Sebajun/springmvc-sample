@@ -1,7 +1,7 @@
 ﻿
 # Palo IT Sample Project
 
-Sample project for palo it technical excercise.
+Sample project for palo it technical excercise. Have fun.
 
 ## Screenshot
 ![home page screenshot](https://i.ibb.co/8bbCX9Q/e6-D6-Pj-PJEX.png)
