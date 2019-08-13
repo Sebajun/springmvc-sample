@@ -145,8 +145,7 @@ public class Employee {
     if (managedEmployees == null) {
       if (other.managedEmployees != null)
         return false;
-    } else if (!managedEmployees.equals(other.managedEmployees))
-      return false;
+    }
     if (manager == null) {
       if (other.manager != null)
         return false;
